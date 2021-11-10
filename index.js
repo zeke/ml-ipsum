@@ -7,7 +7,7 @@ const lorem = new LoremIpsum({
 })
 
 async function main () {
-  const words = lorem.generateParagraphs(20).split(' ')
+  const words = lorem.generateParagraphs(40).split(' ')
 
   // replace every nth word with a random term
   const nthWord = 3
