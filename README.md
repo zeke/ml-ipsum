@@ -1,0 +1,11 @@
+# ML Ipsum
+
+> Lorem ipsum meets [Machine Learning terminology](https://developers.google.com/machine-learning/glossary)
+
+Pariatur causal language model fugiat mollit gradient clipping. Fugiat anim dimension reduction ullamco adipisicing. Objective function tempor dolor device tempor ad rater qui nostrud. Estimator eiusmod nostrud bucketing labore ex target network dolore et multi-head self-attention ipsum deserunt. Model training in aliquip L2 loss dolor esse linear model Lorem. Adipisicing item matrix veniam mollit tabular Q-learning consectetur adipisicing language model laboris id.
+
+Aliquip nonstationarity nulla exercitation equality of opportunity nulla enim translational invariance eu duis TPU resource. Commodo ipsum partial derivative aliquip ex cost dolore voluptate test set. Mollit consectetur experimenter's bias nulla occaecat logits anim. Laborum ML laboris ea checkpoint aliqua aute training set officia cupidatat active learning sunt.
+
+Esse amet tower voluptate minim prediction deserunt ea individual fairness commodo sint. False positive rate velit elit prediction aute id. Serving officia excepteur hyperplane. Elit aliqua items incididunt labore static model. Veniam et oversampling magna ex node esse culpa nonstationarity sunt ullamco ridge regularization. Pariatur sunt convolutional neural network aute non NumPy occaecat fugiat synthetic feature aute culpa Tensor mollit consectetur. Agent aliquip veniam hashing pariatur enim equalized odds Lorem. Ipsum accuracy do adipisicing least squares regression ullamco do convolutional operation et Lorem preprocessing deserunt. Lorem Deep Q-Network velit velit Saver deserunt officia loss surface amet tempor neuron mollit. Adipisicing TPU master tempor elit anomaly detection dolor ullamco items amet ipsum layer. Excepteur do checkpoint labore labore cross-entropy adipisicing laboris Log Loss commodo proident.
+
+Consectetur nulla squared loss qui sint sparse feature est. Magna sequence model laboris minim average precision mollit non. Perplexity aute reprehenderit TensorFlow Serving aliqua ex negative class eu labore negative class aliquip aute. Undersampling sit amet area under the ROC curve ut excepteur. Item matrix nostrud ad LaMDA ipsum sint multi-class classification in do.
